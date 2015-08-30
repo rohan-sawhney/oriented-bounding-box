@@ -10,22 +10,26 @@
 	<string>oriented-bounding-box</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>1B44356CFC591EA616913A145A1EFEB310FD16F3</key>
+		<string>https://github.com/rohan-sawhney/oriented-bounding-box.git</string>
 		<key>93012211585513E702385219484BD8E8D4D7E84E</key>
 		<string>https://github.com/rohan-sawhney/medial-axis-transform-2d.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>oriented-bounding-box/oriented-bounding-box.xcodeproj</string>
+	<string>oriented-bounding-box.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>1B44356CFC591EA616913A145A1EFEB310FD16F3</key>
+		<string>../..</string>
 		<key>93012211585513E702385219484BD8E8D4D7E84E</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/rohan-sawhney/medial-axis-transform-2d.git</string>
+	<string>https://github.com/rohan-sawhney/oriented-bounding-box.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>93012211585513E702385219484BD8E8D4D7E84E</string>
+	<string>1B44356CFC591EA616913A145A1EFEB310FD16F3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>93012211585513E702385219484BD8E8D4D7E84E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>C++</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B44356CFC591EA616913A145A1EFEB310FD16F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oriented-bounding-box</string>
 		</dict>
 	</array>
 </dict>
