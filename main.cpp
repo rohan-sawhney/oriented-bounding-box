@@ -187,9 +187,6 @@ void keyboard(unsigned char key, int x0, int y0)
         case 's':
             y -= 0.03;
             break;
-        case 'm':
-            mesh.write("/Users/rohansawhney/Desktop/developer/C++/oriented-bounding-box/bunny2.obj");
-            break;
     }
     
     glutPostRedisplay();
